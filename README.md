@@ -1,4 +1,4 @@
 # Metis-Project-2-BGG
 Board Game Geek, Web-scrapping and regression
 
-(project_02.md)
+[Project 02](project_02.md)
