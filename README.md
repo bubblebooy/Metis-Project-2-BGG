@@ -12,4 +12,4 @@ The Data is scraped from https://boardgamegeek.com/
 The top 1710 games by number of votes were used.
 
 ## Analysis
-Analysis code [Project 2 BGG.ipynb](Project%202%20BGG.ipynb) 
+Analysis code [Project 2 BGG](Project%202%20BGG.ipynb) 
